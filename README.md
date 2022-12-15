@@ -2,9 +2,8 @@
 
 - Desenvolvedor FullStack Junior
   - Foco em Back-End
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### CONHECIMENTOS
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!---
 NathanHermes/NathanHermes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
