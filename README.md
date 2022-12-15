@@ -1,5 +1,6 @@
 # BEM VINDO :v:
-![Linkedin](https://img.shields.io/badge/url=hermesnathan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://www.linkedin.com/in/nathan-hermes-230b99209/">![Linkedin](https://img.shields.io/badge/url=hermesnathan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 
 - Eu sou o Nathan Hermes
 - Tenho 19 anos e sou de São Carlos - Interior de São Paulo
