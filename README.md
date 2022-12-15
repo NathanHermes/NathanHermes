@@ -1,6 +1,8 @@
-# SOBRE MIM
-- 👋 Hi, I’m @NathanHermes
-
+# BEM VINDO :v:
+- Eu sou o Nathan Hermes
+- Tenho 19 anos e sou de São Carlos - Interior de São Paulo
+- Iniciei minha jornada como desenvolvedor ao 15 anos e atualmente atuo como profissional da área.
+- Sou formada como Técnico em Informática para Internet pelo 
 - Desenvolvedor FullStack Junior
   - Foco em Back-End
 ### CONHECIMENTOS
