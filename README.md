@@ -1,5 +1,5 @@
 # BEM VINDO :v:
-<a href="https://www.linkedin.com/in/nathan-hermes-230b99209/">![Linkedin](https://img.shields.io/badge/url=hermesnathan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="hermesnathan8@gmail.com">![Linkedin](https://img.shields.io/badge/hermesnathan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 - Eu sou o Nathan Hermes
