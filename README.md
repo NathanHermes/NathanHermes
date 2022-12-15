@@ -1,4 +1,6 @@
 # BEM VINDO :v:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 - Eu sou o Nathan Hermes
 - Tenho 19 anos e sou de São Carlos - Interior de São Paulo
 - Iniciei minha jornada como desenvolvedor ao 15 anos e atualmente atuo como profissional da área.
