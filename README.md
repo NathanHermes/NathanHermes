@@ -1,5 +1,6 @@
 # BEM VINDO :v:
 <a href="mailto:hermesnathan8@gmail.com?" subject="subject text">![Gmail](https://img.shields.io/badge/hermesnathan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/nathan-hermes-230b99209/">![Linkedin](https://img.shields.io/badge/Nathan Hermes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 - Eu sou o Nathan Hermes
