@@ -2,10 +2,10 @@
 <a href="mailto:hermesnathan8@gmail.com?" subject="subject text">![Gmail](https://img.shields.io/badge/hermesnathan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/nathan-hermes-230b99209/" target="_blank">![Linkedin](https://img.shields.io/badge/NathanHermes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-- Eu sou o Nathan Hermes
-- Tenho 19 anos e sou de São Carlos - Interior de São Paulo
-- Iniciei minha jornada como desenvolvedor ao 15 anos e atualmente atuo como profissional da área.
-- Sou formada como Técnico em Informática para Internet pelo 
+Hello, eu sou o Nathan Hermes, tenho 19 anos e sou de São Carlos - Interior de São Paulo.
+Iniciei minha jornada como Dev aos 15 anos e atualmente sou Desenvolvedor FullStack, mas tenho um carinho especial pelo Back-End.
+
+Sou formado como Técnico em Informática para Internet pelo ![Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Câmpus São Carlos](https://portais.ifsp.edu.br/scl/)
 - Desenvolvedor FullStack Junior
   - Foco em Back-End
 ### CONHECIMENTOS
