@@ -10,7 +10,7 @@ tenho um carinho especial pelo Back-End.
 
 Sou formado como Técnico em Informática para Internet(2020) pelo [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São Carlos](https://portais.ifsp.edu.br/scl/) e atualmente sou estudante de graduação no curso de Análise e Desenvolvimento de Sistema na mesma instituição.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanHermes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanHermes&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### CONHECIMENTOS
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
