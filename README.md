@@ -2,7 +2,7 @@
 [![Gmail](https://img.shields.io/badge/hermesnathan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hermesnathan8@gmail.com?) [![Linkedin](https://img.shields.io/badge/NathanHermes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-hermes-230b99209/)
 
 
-Hello, eu sou o Nathan Hermes, tenho 19 anos e sou de São Carlos - Interior de São Paulo.
+Hello, eu sou o Nathan Hermes, tenho 19 anos e sou de São Carlos - Interior de São Paulo.<br>
 Iniciei minha jornada como Dev aos 15 anos e atualmente sou Desenvolvedor FullStack, mas 
 tenho um carinho especial pelo Back-End.
 
