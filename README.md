@@ -10,6 +10,8 @@ tenho um carinho especial pelo Back-End.
 
 Sou formado como Técnico em Informática para Internet(2020) pelo [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São Carlos](https://portais.ifsp.edu.br/scl/) e atualmente sou estudante de graduação no curso de Análise e Desenvolvimento de Sistema na mesma instituição.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanhermes&show_icons=true&theme=omni&hide=TeX&layout=compact)
+
 ### CONHECIMENTOS
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
