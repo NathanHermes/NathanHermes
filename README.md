@@ -3,7 +3,7 @@
 
 
 <img src="https://www.napratica.org.br/wp-content/uploads/2022/04/Foto-de-fauxels-no-Pexels-27-696x487.png" align="right" width="350px">
-<br>
+<br/><br/>
 Hello, eu sou o Nathan Hermes, tenho 19 anos e sou de São Carlos - Interior de São Paulo.<br>
 Iniciei minha jornada como Dev aos 15 anos e atualmente sou Desenvolvedor FullStack, mas 
 tenho um carinho especial pelo Back-End.
