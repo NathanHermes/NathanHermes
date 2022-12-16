@@ -8,7 +8,8 @@ Sou formado como Técnico em Informática para Internet (2020) pelo [![IFSP](htt
 
 ## CONHECIMENTOS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanHermes&layout=compact&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br/><br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!---
 NathanHermes/NathanHermes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
