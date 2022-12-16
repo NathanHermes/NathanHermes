@@ -7,7 +7,7 @@ Iniciei minha jornada como Dev aos 15 anos e atualmente sou Desenvolvedor FullSt
 Sou formado como Técnico em Informática para Internet (2020) pelo [![IFSP](https://img.shields.io/badge/Instituto%20Federal%20de%20São%20Paulo-Câmpus%20São%20Carlos-%23349133?style=for-the-badge&labelColor=white)](https://portais.ifsp.edu.br/scl/) e atualmente sou estudante de graduação no curso de Análise e Desenvolvimento de Sistema na mesma instituição.<br/><br/>
 
 ## CONHECIMENTOS
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanHermes&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanHermes&layout=compact&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
