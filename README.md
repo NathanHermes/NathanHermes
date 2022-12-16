@@ -1,6 +1,7 @@
 # BEM VINDO :v:
-[![Gmail](https://img.shields.io/badge/hermesnathan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hermesnathan8@gmail.com)
-<!-- <a href="https://mail.google.com/mail/u/0/#inbox">![Gmail]()</a> -->
+<a href="https://mail.google.com/mail/u/0/#inbox">
+  ![Gmail](https://img.shields.io/badge/hermesnathan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
 
 
 - Eu sou o Nathan Hermes
