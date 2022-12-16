@@ -6,7 +6,7 @@ Hello, eu sou o Nathan Hermes, tenho 19 anos e sou de São Carlos - Interior de 
 Iniciei minha jornada como Dev aos 15 anos e atualmente sou Desenvolvedor FullStack, mas 
 tenho um carinho especial pelo Back-End.
 
-Sou formado como Técnico em Informática para Internet pelo ![teste](https://raster.shields.io/badge/Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos-399737?style=for-the-badge)
+Sou formado como Técnico em Informática para Internet pelo ![teste](https://img.shields.io/badge/Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos-399737?style=for-the-badge)
 
 - Desenvolvedor FullStack Junior
   - Foco em Back-End
