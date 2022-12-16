@@ -7,9 +7,9 @@ Iniciei minha jornada como Dev aos 15 anos e atualmente sou Desenvolvedor FullSt
 Sou formado como Técnico em Informática para Internet (2020) pelo [![IFSP](https://img.shields.io/badge/Instituto%20Federal%20de%20São%20Paulo-Câmpus%20São%20Carlos-%23349133?style=for-the-badge&labelColor=white)](https://portais.ifsp.edu.br/scl/) e atualmente sou estudante de graduação no curso de Análise e Desenvolvimento de Sistema na mesma instituição.<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanHermes&layout=compact&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-## TECNOLOGIAS
+## HABILIDADES
 ### WEB
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <!---
 NathanHermes/NathanHermes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
