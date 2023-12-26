@@ -1,11 +1,40 @@
-# BEM VINDO :v:
-[![Gmail](https://img.shields.io/badge/hermesnathan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hermesnathan8@gmail.com?) [![Linkedin](https://img.shields.io/badge/NathanHermes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-hermes-230b99209/)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Hello, eu sou o Nathan Hermes, tenho 20 anos e sou de São Carlos — Interior de São Paulo.<br/>
-Iniciei minha jornada como Dev aos 15 anos, ligado nos 220, querendo dominar todas as linguagens e técnicas possíveis como programador. Agora, aos 20 anos, um pouco mais maduro, tenho aplicado meus esforços em aprender tecnologias e técnicas focadas em Front-End. Contudo, eu possuo conhecimentos e habilidades sobre variadas tecnologias Back-End e Banco de Dados.<br/><br/>
-Sou formado como Análista e Desenvolvedor de Sistema (2024) pelo [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos](https://portais.ifsp.edu.br/scl/).<br/><br/>
+# Nathan Hermes
+<p align="left"> 
+  Analista Desenvolvedor Junior <a href="https://triplos.com.br/?gclid=Cj0KCQiAkKqsBhC3ARIsAEEjuJha7pA6ng0hUC1jVC_OKMD0hVwAZ4eFg5Qyn34ohUGH_-b35QvquhQaAreDEALw_wcB">@Triplos Tecnologia</a>
+</p>
 
-<!-- ## CONHECIMENTOS
+<p>Olá, tenho 20 anos e sou de São Carlos — Interior de São Paulo.</p>
+
+<p>
+  Iniciei minha jornada como Dev aos 15 anos, ligado nos 220, querendo dominar todas as linguagens e técnicas possíveis como programador. 
+</p>
+
+<p>
+  Agora, aos 20 anos, um pouco mais maduro, tenho aplicado meus esforços em aprender tecnologias e técnicas focadas em Front-End. Contudo, possuo conhecimentos e habilidades sobre variadas tecnologias Back-End e Banco de Dados.
+</p>
+
+<p>
+  Sou formado como Análista e Desenvolvedor de Sistema (2024) pelo <a href="https://portais.ifsp.edu.br/scl/">Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos</a>.
+</p>
+
+<!-- <p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+</p>
+
+## CONHECIMENTOS
 ### WEB
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ### DESKTOP
