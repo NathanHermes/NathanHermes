@@ -2,22 +2,28 @@
 
 # Nathan Hermes
 <p align="left"> 
-  Analista Desenvolvedor Junior <a href="https://triplos.com.br/?gclid=Cj0KCQiAkKqsBhC3ARIsAEEjuJha7pA6ng0hUC1jVC_OKMD0hVwAZ4eFg5Qyn34ohUGH_-b35QvquhQaAreDEALw_wcB">@Triplos Tecnologia</a>
+  Analista Desenvolvedor Junior <a href="https://triplos.com.br/?gclid=Cj0KCQiAkKqsBhC3ARIsAEEjuJha7pA6ng0hUC1jVC_OKMD0hVwAZ4eFg5Qyn34ohUGH_-b35QvquhQaAreDEALw_wcB"><strong><em>@Triplos Tecnologia</em></strong></a>
 </p>
 
 <p>Olá, tenho 20 anos e sou de São Carlos — Interior de São Paulo.</p>
 
 <p>
-  Iniciei minha jornada como Dev aos 15 anos, ligado nos 220, querendo dominar todas as linguagens e técnicas possíveis como programador. 
+  Formado como Análista e Desenvolvedor de Sistema (2024) pelo <a href="https://portais.ifsp.edu.br/scl/">Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos</a>.
 </p>
 
 <p>
-  Agora, aos 20 anos, um pouco mais maduro, tenho aplicado meus esforços em aprender tecnologias e técnicas focadas em Front-End. Contudo, possuo conhecimentos e habilidades sobre variadas tecnologias Back-End e Banco de Dados.
+  Iniciei minha jornada como Dev aos 15 anos, ligado nos 220, querendo dominar todas as linguagens e técnicas possíveis. 
 </p>
 
 <p>
-  Sou formado como Análista e Desenvolvedor de Sistema (2024) pelo <a href="https://portais.ifsp.edu.br/scl/">Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos</a>.
+  Agora, aos 20 anos, um pouco mais maduro, tenho aplicado meus esforços em aprender tecnologias e técnicas focadas em Front-End.
 </p>
+
+<p>
+  Contudo, possuo conhecimentos e habilidades sobre variadas tecnologias Back-End e Banco de Dados.
+</p>
+
+
 
 <!-- <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
