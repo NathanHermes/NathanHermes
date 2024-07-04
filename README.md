@@ -5,7 +5,7 @@
   Analista Desenvolvedor Junior <a href="https://triplos.com.br/?gclid=Cj0KCQiAkKqsBhC3ARIsAEEjuJha7pA6ng0hUC1jVC_OKMD0hVwAZ4eFg5Qyn34ohUGH_-b35QvquhQaAreDEALw_wcB"><strong><em>@Triplos Tecnologia</em></strong></a>
 </p>
 
-<p>Olá, tenho 20 anos e sou de São Carlos — Interior de São Paulo.</p>
+<p>Olá, tenho 21 anos e sou de São Carlos — Interior de São Paulo.</p>
 
 <p>
   Formado como Análista e Desenvolvedor de Sistema (2024) pelo <a href="https://portais.ifsp.edu.br/scl/">Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos</a>.
@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  Agora, aos 20 anos, um pouco mais maduro, tenho aplicado meus esforços em aprender tecnologias e técnicas focadas em Front-End.
+  Agora, aos 21 anos, um pouco mais maduro, tenho aplicado meus esforços em aprender tecnologias e técnicas focadas em Front-End.
 </p>
 
 <p>
