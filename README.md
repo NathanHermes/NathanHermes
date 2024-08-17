@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td style="width: 30%;">
+    <td style="width: 50%;">
        <img src="https://github.com/NathanHermes/NathanHermes/blob/main/wall-e.jpg" alt="Wall-e" style="width: 200%; border: none;"/>
     </td>
-    <td style="width: 70%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
        
     ┳┓┏  ┏┏      ┓┏  ┏┓   ┏   ┏┓ ┏       
